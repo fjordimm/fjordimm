@@ -1,5 +1,5 @@
 # Me
-I am currently studying at a aniversity for a CS degree
+I am currently studying at a university for a CS degree
 
 # Favorite Languages (best to worst)
 * C#
