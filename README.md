@@ -19,7 +19,7 @@ Currently attending UC Santa Cruz, majoring in Computer Science B.S. (expected g
 - C#
 - C
 
-## Languages and frameworks I'm comfortable in
+## Languages I'm comfortable in
 - Java
 - C#
 - C
