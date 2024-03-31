@@ -15,11 +15,11 @@ I love optimization, clean code & code organization, and programming language de
 Aside from programming, I also love playing/making music, linguistics, and graphic design.
 Currently attending UC Santa Cruz, majoring in Computer Science B.S. (expected graduation in 2026).
 
-## Favorite Language
+## Favorite Languages
 - C#
 - C
 
-## Languages I'm comfortable in
+## Languages and frameworks I'm comfortable in
 - Java
 - C#
 - C
