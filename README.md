@@ -9,3 +9,7 @@
     _/ |                                      
    |__/                                       
 ```
+
+## About Me
+I love optimization, clean code & code organization, and programming language design.
+Aside from programming, I also love playing/making music, linguistics, and graphic design.
