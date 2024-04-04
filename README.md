@@ -18,6 +18,7 @@ Currently attending UC Santa Cruz, majoring in Computer Science B.S. (expected g
 ## Favorite Languages
 - C#
 - C
+- Rust
 
 ## Languages I'm comfortable in
 - Java
