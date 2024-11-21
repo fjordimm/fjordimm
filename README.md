@@ -20,11 +20,6 @@ Currently attending UC Santa Cruz, majoring in Computer Science B.S. (expected g
 - C
 - Rust
 
-## Languages I'm comfortable in
-- Java
-- C#
-- C
-- C++
-- HTML / CSS
-- Javascript
-- Python
+## Projects
+Here are some of my favorite projects:
+- 
